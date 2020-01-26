@@ -1,2 +1,4 @@
 # JS-Game
-Browser Game powered up with JavaScript
+Card Game powered up with Vanilla JavaScript
+
+
